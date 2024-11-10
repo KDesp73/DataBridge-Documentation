@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['insertinto_44',['insertInto',['../dd/ddc/classkdesp73_1_1databridge_1_1helpers_1_1QueryBuilder.html#a66e5bf47c7598f1c89ab2b3c9e5d7ae7',1,'kdesp73::databridge::helpers::QueryBuilder']]]
+  ['from_0',['from',['../dd/ddc/classkdesp73_1_1databridge_1_1helpers_1_1QueryBuilder.html#a3029e617ec8470c5e970de3e19bb473e',1,'kdesp73::databridge::helpers::QueryBuilder']]]
 ];

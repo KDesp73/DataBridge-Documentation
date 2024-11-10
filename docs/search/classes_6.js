@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['valuenotfoundexception_34',['ValueNotFoundException',['../d7/da2/classkdesp73_1_1databridge_1_1exceptions_1_1ValueNotFoundException.html',1,'kdesp73::databridge::exceptions']]]
+  ['postgresconnection_0',['PostgresConnection',['../df/ddf/classkdesp73_1_1databridge_1_1connections_1_1PostgresConnection.html',1,'kdesp73::databridge::connections']]]
 ];

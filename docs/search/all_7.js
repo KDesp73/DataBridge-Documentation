@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['printtable_13',['printTable',['../d4/dc9/classkdesp73_1_1databridge_1_1helpers_1_1ResultProcessor.html#a4efde897333b72f1fb0750cd635da13f',1,'kdesp73.databridge.helpers.ResultProcessor.printTable(List&lt; ResultRow &gt; resultList, List&lt; String &gt; columns)'],['../d4/dc9/classkdesp73_1_1databridge_1_1helpers_1_1ResultProcessor.html#ac3f25b3e1e32a0874c7b1759f3b6f4f3',1,'kdesp73.databridge.helpers.ResultProcessor.printTable(List&lt; ResultRow &gt; resultList)']]]
+  ['incorrectoperatorexception_0',['IncorrectOperatorException',['../d7/d84/classkdesp73_1_1databridge_1_1exceptions_1_1IncorrectOperatorException.html',1,'kdesp73::databridge::exceptions']]],
+  ['insertinto_1',['insertInto',['../dd/ddc/classkdesp73_1_1databridge_1_1helpers_1_1QueryBuilder.html#a66e5bf47c7598f1c89ab2b3c9e5d7ae7',1,'kdesp73::databridge::helpers::QueryBuilder']]]
 ];

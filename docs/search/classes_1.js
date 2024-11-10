@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['incorrectoperatorexception_27',['IncorrectOperatorException',['../d7/d84/classkdesp73_1_1databridge_1_1exceptions_1_1IncorrectOperatorException.html',1,'kdesp73::databridge::exceptions']]]
+  ['config_0',['Config',['../dd/db7/classkdesp73_1_1databridge_1_1helpers_1_1Config.html',1,'kdesp73::databridge::helpers']]]
 ];

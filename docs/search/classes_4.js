@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['resultprocessor_30',['ResultProcessor',['../d4/dc9/classkdesp73_1_1databridge_1_1helpers_1_1ResultProcessor.html',1,'kdesp73::databridge::helpers']]],
-  ['resultrow_31',['ResultRow',['../d5/d3d/classkdesp73_1_1databridge_1_1helpers_1_1ResultRow.html',1,'kdesp73::databridge::helpers']]],
-  ['runtimeexception_32',['RuntimeException',['../db/d95/classRuntimeException.html',1,'']]]
+  ['loglevel_0',['LogLevel',['../d9/d00/enumkdesp73_1_1databridge_1_1helpers_1_1SQLogger_1_1LogLevel.html',1,'kdesp73::databridge::helpers::SQLogger']]],
+  ['logtype_1',['LogType',['../da/d15/enumkdesp73_1_1databridge_1_1helpers_1_1SQLogger_1_1LogType.html',1,'kdesp73::databridge::helpers::SQLogger']]]
 ];
