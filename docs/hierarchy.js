@@ -9,6 +9,7 @@ var hierarchy =
         [ "kdesp73.databridge.connections.SQLiteConnection", "d6/d32/classkdesp73_1_1databridge_1_1connections_1_1SQLiteConnection.html", null ]
       ] ]
     ] ],
+    [ "kdesp73.databridge.connections.AvailableConnections", "d6/d45/enumkdesp73_1_1databridge_1_1connections_1_1AvailableConnections.html", null ],
     [ "kdesp73.databridge.migration.CommandPrompt", "d8/dab/classkdesp73_1_1databridge_1_1migration_1_1CommandPrompt.html", null ],
     [ "Comparable", "db/d26/classComparable.html", [
       [ "kdesp73.databridge.migration.Migration", "dc/d07/classkdesp73_1_1databridge_1_1migration_1_1Migration.html", null ]

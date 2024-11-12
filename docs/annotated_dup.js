@@ -3,6 +3,7 @@ var annotated_dup =
     [ "kdesp73", null, [
       [ "databridge", null, [
         [ "connections", null, [
+          [ "AvailableConnections", "d6/d45/enumkdesp73_1_1databridge_1_1connections_1_1AvailableConnections.html", null ],
           [ "DatabaseConnection", "d2/dd9/interfacekdesp73_1_1databridge_1_1connections_1_1DatabaseConnection.html", "d2/dd9/interfacekdesp73_1_1databridge_1_1connections_1_1DatabaseConnection" ],
           [ "MSAccessConnection", "dd/d88/classkdesp73_1_1databridge_1_1connections_1_1MSAccessConnection.html", "dd/d88/classkdesp73_1_1databridge_1_1connections_1_1MSAccessConnection" ],
           [ "PostgresConnection", "df/ddf/classkdesp73_1_1databridge_1_1connections_1_1PostgresConnection.html", "df/ddf/classkdesp73_1_1databridge_1_1connections_1_1PostgresConnection" ],
@@ -25,7 +26,7 @@ var annotated_dup =
           [ "CommandPrompt", "d8/dab/classkdesp73_1_1databridge_1_1migration_1_1CommandPrompt.html", null ],
           [ "Migration", "dc/d07/classkdesp73_1_1databridge_1_1migration_1_1Migration.html", "dc/d07/classkdesp73_1_1databridge_1_1migration_1_1Migration" ],
           [ "SchemaChangelog", "da/d21/classkdesp73_1_1databridge_1_1migration_1_1SchemaChangelog.html", null ],
-          [ "Scheman", "d1/d60/classkdesp73_1_1databridge_1_1migration_1_1Scheman.html", "d1/d60/classkdesp73_1_1databridge_1_1migration_1_1Scheman" ]
+          [ "Scheman", "d1/d60/classkdesp73_1_1databridge_1_1migration_1_1Scheman.html", null ]
         ] ]
       ] ]
     ] ],

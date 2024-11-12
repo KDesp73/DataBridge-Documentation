@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['load_0',['load',['../d2/deb/classkdesp73_1_1databridge_1_1helpers_1_1Adapter.html#a2da2b94774aaae293fb0dd3e0cee4661',1,'kdesp73::databridge::helpers::Adapter']]]
+  ['migration_0',['Migration',['../dc/d07/classkdesp73_1_1databridge_1_1migration_1_1Migration.html#a53a7b04f6ca58ef9d76d59b74cf48635',1,'kdesp73.databridge.migration.Migration.Migration(String path)'],['../dc/d07/classkdesp73_1_1databridge_1_1migration_1_1Migration.html#afd8e615e121937202eac983033741d5b',1,'kdesp73.databridge.migration.Migration.Migration(String path, int version, String description, String upScript, String downScript)']]]
 ];
