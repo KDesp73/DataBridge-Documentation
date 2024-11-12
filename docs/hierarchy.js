@@ -28,5 +28,5 @@ var hierarchy =
     [ "kdesp73.databridge.migration.Scheman", "d1/d60/classkdesp73_1_1databridge_1_1migration_1_1Scheman.html", null ],
     [ "kdesp73.databridge.helpers.SQLogger", "df/d13/classkdesp73_1_1databridge_1_1helpers_1_1SQLogger.html", null ],
     [ "kdesp73.databridge.helpers.SQLogger.SQLOperation", "d0/ded/enumkdesp73_1_1databridge_1_1helpers_1_1SQLogger_1_1SQLOperation.html", null ],
-    [ "kdesp73.databridge.helpers.TransactionManager", "d8/d97/classkdesp73_1_1databridge_1_1helpers_1_1TransactionManager.html", null ]
+    [ "kdesp73.databridge.helpers.Transaction", "da/dd8/classkdesp73_1_1databridge_1_1helpers_1_1Transaction.html", null ]
 ];

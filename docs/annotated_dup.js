@@ -20,7 +20,7 @@ var annotated_dup =
           [ "FileUtils", "da/da3/classkdesp73_1_1databridge_1_1helpers_1_1FileUtils.html", null ],
           [ "QueryBuilder", "dd/ddc/classkdesp73_1_1databridge_1_1helpers_1_1QueryBuilder.html", "dd/ddc/classkdesp73_1_1databridge_1_1helpers_1_1QueryBuilder" ],
           [ "SQLogger", "df/d13/classkdesp73_1_1databridge_1_1helpers_1_1SQLogger.html", "df/d13/classkdesp73_1_1databridge_1_1helpers_1_1SQLogger" ],
-          [ "TransactionManager", "d8/d97/classkdesp73_1_1databridge_1_1helpers_1_1TransactionManager.html", "d8/d97/classkdesp73_1_1databridge_1_1helpers_1_1TransactionManager" ]
+          [ "Transaction", "da/dd8/classkdesp73_1_1databridge_1_1helpers_1_1Transaction.html", "da/dd8/classkdesp73_1_1databridge_1_1helpers_1_1Transaction" ]
         ] ],
         [ "migration", null, [
           [ "CommandPrompt", "d8/dab/classkdesp73_1_1databridge_1_1migration_1_1CommandPrompt.html", null ],
